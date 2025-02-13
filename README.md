@@ -24,15 +24,16 @@ EDA was conducted to understand the dataset’s distribution and identify import
 
 Class Imbalance: Majority of users do not default, leading to imbalance in labels.
 Feature Correlation: Payment history and credit utilization significantly impact default prediction.
-<img width="669" alt="Screenshot 2025-02-13 at 3 50 47 PM" src="https://github.com/user-attachments/assets/32e0bd35-7d69-4881-9a14-38a88d4ae797" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32e0bd35-7d69-4881-9a14-38a88d4ae797" width="600" />
+  <img src="https://github.com/user-attachments/assets/5ef8cbf1-fa41-44b3-b13b-37625e201297" width="600" />
+  <img src="https://github.com/user-attachments/assets/c31acd06-aef3-45bf-841c-7f69328c5ec7" width="600" />
+</p>
 
-<img width="669" alt="Screenshot 2025-02-13 at 3 51 06 PM" src="https://github.com/user-attachments/assets/5ef8cbf1-fa41-44b3-b13b-37625e201297" />
-
-<img width="666" alt="Screenshot 2025-02-13 at 3 51 24 PM" src="https://github.com/user-attachments/assets/c31acd06-aef3-45bf-841c-7f69328c5ec7" />
-
-<img width="713" alt="Screenshot 2025-02-13 at 3 51 44 PM" src="https://github.com/user-attachments/assets/e5524f64-74b1-421a-b4d6-a53a03723b51" />
-
-<img width="672" alt="Screenshot 2025-02-13 at 3 51 56 PM" src="https://github.com/user-attachments/assets/cece486e-2edc-41c7-b517-5322d9b3b682" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5524f64-74b1-421a-b4d6-a53a03723b51" width="600" />
+  <img src="https://github.com/user-attachments/assets/cece486e-2edc-41c7-b517-5322d9b3b682" width="600" />
+</p>
 
 # Models Implemented
 Two machine learning models were used:
