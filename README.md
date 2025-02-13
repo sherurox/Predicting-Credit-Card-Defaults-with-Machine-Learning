@@ -2,15 +2,15 @@
 
 This repository contains the implementation and analysis of predicting credit card defaults using machine learning techniques. The research explores logistic regression and Naïve Bayes classifiers on a dataset containing credit card transaction and payment behavior. The study aims to assist financial institutions in credit risk assessment by developing predictive models that analyze key features related to credit card usage.
 
-# Features
+# Features of the paper are:
 
-Exploratory Data Analysis (EDA) with visualizations <br>
-Data preprocessing, including handling missing values and feature engineering <br>
-Implementation of Logistic Regression and Naïve Bayes models <br>
-Performance evaluation using metrics such as accuracy, precision, recall, and F1-score <br>
-Comparison of models for predictive effectiveness <br>
+1. Exploratory Data Analysis (EDA) with visualizations <br>
+2. Data preprocessing, including handling missing values and feature engineering <br>
+3. Implementation of Logistic Regression and Naïve Bayes models <br>
+4. Performance evaluation using metrics such as accuracy, precision, recall, and F1-score <br>
+5. Comparison of models for predictive effectiveness <br>
 
-#Dataset
+# Dataset
 The dataset used for this study was sourced from Kaggle and contains credit card usage and payment behavior data. It includes various attributes such as:
 
 Demographic details (age, gender, marital status, education level)<br>
@@ -21,7 +21,7 @@ Payment history (delinquency records over six months)<br>
   <img width="708" alt="Screenshot 2025-02-13 at 3 50 15 PM" src="https://github.com/user-attachments/assets/5febac04-3b9b-4e64-9395-e17e2bf1b7e6" />
 </p>
 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 EDA was conducted to understand the dataset’s distribution and identify important features. Key insights include:
 
 Class Imbalance: Majority of users do not default, leading to imbalance in labels. <br>
