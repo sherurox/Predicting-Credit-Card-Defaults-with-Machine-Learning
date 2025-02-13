@@ -61,7 +61,8 @@ Rohan Patil (https://github.com/rohanpatil2), published in IJRASET, October 2023
 🔗 Paper Link: Predicting Credit Card Defaults with Machine Learning <br>
 https://www.ijraset.com/best-journal/predicting-credit-card-defaults-with-machine-learning
 
-
+# 📄 License <br>
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 
 
