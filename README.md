@@ -16,8 +16,10 @@ The dataset used for this study was sourced from Kaggle and contains credit card
 Demographic details (age, gender, marital status, education level)<br>
 Financial data (credit limit, bill amounts, previous payments)<br>
 Payment history (delinquency records over six months)<br>
-<img width="708" alt="Screenshot 2025-02-13 at 3 50 15 PM" src="https://github.com/user-attachments/assets/5febac04-3b9b-4e64-9395-e17e2bf1b7e6" />
 
+<p align="center">
+  <img width="708" alt="Screenshot 2025-02-13 at 3 50 15 PM" src="https://github.com/user-attachments/assets/5febac04-3b9b-4e64-9395-e17e2bf1b7e6" />
+</p>
 
 #Exploratory Data Analysis (EDA)
 EDA was conducted to understand the dataset’s distribution and identify important features. Key insights include:
